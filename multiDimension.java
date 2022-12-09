@@ -17,10 +17,5 @@ public class multiDimension {
             } else {
                 System.out.println("Error input");
             }
-
-
-
-
-
     }
 }
