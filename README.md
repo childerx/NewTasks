@@ -1,2 +1,2 @@
 # NewTasks
-This is a new task
+Don't let the title scare you
